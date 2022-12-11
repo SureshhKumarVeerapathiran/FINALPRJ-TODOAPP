@@ -1,4 +1,6 @@
-﻿using TodoApp.Data;
+
+
+using TodoApp.Data;
 using TodoApp.Models;
 
 namespace TodoApp.Views
